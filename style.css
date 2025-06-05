@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif;
+}
+
+header{
+    text-align: center;
+}
+
+h1 {
+    color: #4676A9;
+    text-align: center;
+}
+
+h2{
+    color: #cb721c;
+}
+
+footer{
+    background-color: #22466c;
+    color: #ffffff;
+    text-align: center;
+}
