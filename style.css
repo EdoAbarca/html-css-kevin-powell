@@ -9,10 +9,25 @@ header{
 h1 {
     color: #4676A9;
     text-align: center;
+    font-size: 7.5rem;
 }
+
+a{
+    color: inherit; /*Inherit higher-priority color -> default (black)*/
+}
+
 
 h2{
     color: #cb721c;
+    font-size: 2.5rem;
+}
+
+h3{
+    font-size: 1.75rem;
+}
+
+section{
+    margin-block: 75px; /*Spacing between block elements (in this case, sections)*/
 }
 
 footer{
